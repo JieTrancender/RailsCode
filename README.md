@@ -1,1 +1,1 @@
-### [RailsActiveRecordDatabaseMigration](./RailsActiveRecordDatabaseMigration.html)
+### [RailsActiveRecordDatabaseMigration](./RailsActiveRecordDatabaseMigration.md)
