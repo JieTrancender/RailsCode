@@ -73,19 +73,19 @@
 1. 迁移文件rails按照时间先后执行并且实施更新db/schema.rb文件以显示最新的数据结构。
 2. change是迁移中最常用的方法
 
-    > add_column
-    > add_index
-    > add_reference
-    > add_timestamps
-    > create_table
-    > create_join_table
-    > drop_table(必须提供代码块)
-    > drop_join_table(必须提供代码块)
-    > remove_timestamps
-    > remove_column
-    > rename_column
-    > rename_index
-    > rename_table
+    > add_column  
+    > add_index  
+    > add_reference  
+    > add_timestamps  
+    > create_table  
+    > create_join_table  
+    > drop_table(必须提供代码块)  
+    > drop_join_table(必须提供代码块)  
+    > remove_timestamps  
+    > remove_column  
+    > rename_column  
+    > rename_index  
+    > rename_table  
 
 
 <strong>谨以此文记录自己一次手误导致数据表名错误加以修改的过程</strong>
